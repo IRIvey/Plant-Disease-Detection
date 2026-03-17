@@ -1,0 +1,12 @@
+                        precision    recall  f1-score   support
+
+        Bacterial Spot     0.9663    0.9699    0.9681       266
+          Early Blight     0.9931    0.9698    0.9813       298
+               Healthy     0.9801    0.9966    0.9883       296
+           Late Blight     0.9931    0.9862    0.9896       290
+    Septoria Leaf Spot     0.9677    0.9712    0.9695       278
+Yellow Leaf Curl Virus     0.9901    0.9967    0.9934       302
+
+              accuracy                         0.9821      1730
+             macro avg     0.9817    0.9817    0.9817      1730
+          weighted avg     0.9822    0.9821    0.9821      1730

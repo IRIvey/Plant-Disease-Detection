@@ -1,0 +1,8 @@
+{
+  "num_batches_measured": 20,
+  "total_images_measured": 320,
+  "total_inference_time_sec": 0.43271836299754796,
+  "avg_time_per_batch_sec": 0.0216359181498774,
+  "avg_time_per_image_sec": 0.0013522448843673374,
+  "images_per_second": 739.5110246380123
+}

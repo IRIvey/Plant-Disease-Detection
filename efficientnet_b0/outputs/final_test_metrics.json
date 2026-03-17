@@ -1,0 +1,10 @@
+{
+  "test_loss": 0.12000040176719341,
+  "test_accuracy": 0.9820809248554914,
+  "test_precision_macro": 0.9817357996278838,
+  "test_recall_macro": 0.9817439585376883,
+  "test_f1_macro": 0.9817003536247996,
+  "from_scratch": true,
+  "model": "efficientnet_b0",
+  "img_size": 224
+}
